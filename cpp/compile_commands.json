@@ -1,0 +1,5 @@
+[{
+    "directory": "/home/javier/Tech/c++/",
+        "command": "clang++ -Wall -I/usr/local/include -std=c++20 -o main main.cpp",
+        "file": "*.cpp"
+}]

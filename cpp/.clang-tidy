@@ -1,0 +1,25 @@
+---
+Checks: "*,
+        -abseil-*,
+        -bugprone-*,
+        -altera-*,
+        -android-*,
+        -fuchsia-*,
+        -google-*,
+        -llvm*,
+        -zircon-*,
+        -cppcoreguidelines-pro-bounds-constant-array-index,
+        -cppcoreguidelines-avoid-magic-numbers,
+        -cppcoreguidelines-non-private-member-variables-in-classes,
+        -misc-non-private-member-variables-in-classes,
+        -modernize-use-nodiscard,
+        -modernize-use-trailing-return-type,
+        -readability-avoid-const-params-in-decls,
+        -readability-else-after-return,
+        -readability-identifier-length,
+        -readability-magic-numbers,
+        -readability-static-accessed-through-instance,
+"
+WarningsAsErrors: ''
+HeaderFilterRegex: ''
+FormatStyle:     none
