@@ -1,0 +1,19 @@
+* f49e31f - (HEAD -> master) create cpp parser to mark the merge nodes (Tue, 27 Dec 2022 14:29:12 +0100) <Javier Suarez>
+| * deb14e7 - (fake_f2) -m (Tue, 27 Dec 2022 13:33:31 +0100) <Javier Suarez>
+| | * 37a54e8 - (fake_root) -m (Tue, 27 Dec 2022 13:10:08 +0100) <Javier Suarez>
+| | *   bba9866 - [MERGE] Merge branch 'fake_f1' into fake_root (Tue, 27 Dec 2022 13:08:10 +0100) <Javier Suarez>
+| | |\  
+| | | * ed8a699 - (fake_f1) -m (Tue, 27 Dec 2022 13:06:28 +0100) <Javier Suarez>
+| | |/  
+| |/|   
+| * | 6f5f39f - -m (Tue, 27 Dec 2022 13:06:27 +0100) <Javier Suarez>
+| |/  
+| * fae4016 - -m (Tue, 27 Dec 2022 13:06:03 +0100) <Javier Suarez>
+| * 8b44d78 - -m (Tue, 27 Dec 2022 13:05:58 +0100) <Javier Suarez>
+| * b2dfeb4 - wip (Tue, 27 Dec 2022 12:57:26 +0100) <Javier Suarez>
+|/  
+* 99aaf12 - reshape project to have syntax, cpp and lua submodules (Tue, 27 Dec 2022 11:47:20 +0100) <Javier Suarez>
+* b4bb6c8 - create install script (Mon, 26 Dec 2022 15:54:28 +0100) <Javier Suarez>
+* 7253106 - rename cel for gt (Mon, 26 Dec 2022 15:53:35 +0100) <Javier Suarez>
+* eec6838 - cel syntax copy from internet (Mon, 26 Dec 2022 15:24:27 +0100) <Javier Suarez>
+* 981a9d2 - initial commit (Mon, 26 Dec 2022 15:23:32 +0100) <Javier Suarez>
