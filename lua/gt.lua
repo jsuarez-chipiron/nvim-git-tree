@@ -3,6 +3,7 @@ local M = {}
 function M.GitTree(args)
     vim.cmd("new")
     vim.cmd("r !gittree "..args)
+    vim.cmd("norm ggdd")
     vim.cmd("set ft=gt")
 end
 
